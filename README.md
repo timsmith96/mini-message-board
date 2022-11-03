@@ -3,7 +3,7 @@
 
 A simple message board application. Built using:
 
-- Pug
+- EJS
 - Node.js
 - Express
 - HTML
